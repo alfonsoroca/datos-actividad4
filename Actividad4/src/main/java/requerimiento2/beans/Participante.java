@@ -47,7 +47,7 @@ public class Participante {
 	// Sobrescritura método toString()
 	@Override
 	public String toString() {
-		return "Participante [hora=" + hora + ", grupo=" + grupo + "]";
+		return "Participante [hora=" + hora + ", grupo=" + grupo + "]\n";
 	}	
 	
 }

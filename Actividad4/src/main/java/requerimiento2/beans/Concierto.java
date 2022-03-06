@@ -62,7 +62,7 @@ public class Concierto {
 	@Override
 	public String toString() {
 		return "Concierto [nombre=" + nombre + ", fecha=" + fecha + ", hora=" + hora + ", participantes="
-				+ participantes + "]";
+				+ "\n" + participantes + "]";
 	}	
 
 }

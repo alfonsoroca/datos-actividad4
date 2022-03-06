@@ -74,11 +74,8 @@ public class LecturaXML {
 					Node grupo = nodosParticipantes.item(j).getLastChild();
 
 					System.out.println("	" +horaParticipante.getTextContent() + " - " + grupo.getTextContent());
-
 				}
 			}
 		}
-
 	}
-
 }
