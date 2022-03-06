@@ -31,8 +31,12 @@ El código de la clase ![Participante](/Actividad4/src/main/java/requerimiento2/
 ## Paquete requerimiento2.main
 El paquete ![requerimiento2.main](/Actividad4/src/main/java/requerimiento2/main) contiene las clases que contienen los métodos main para dar solución al requerimiento 2.
 
-### Clase ObjetoToXML
-El código de la clase ![ObjetoToXML](/Actividad4/src/main/java/requerimiento2/main/ObjectToXML.java) se encarga de convertir un objeto en un fichero XML denominado ![conciertoJAXB.xml](/Actividad4/conciertoJAXB.xml)
+### Clase ObjectToXML
+El código de la clase ![ObjectToXML](/Actividad4/src/main/java/requerimiento2/main/ObjectToXML.java) se encarga de convertir un objeto en un fichero XML denominado ![conciertoJAXB.xml](/Actividad4/conciertoJAXB.xml)
+
+
+### Clase XMLToObject
+El código de la clase ![XMLToObject](/Actividad4/src/main/java/requerimiento2/main/XMLToObject.java) se encarga de la lectura del fichero ![conciertoJAXB.xml](/Actividad4/conciertoJAXB.xml).
 
 
 
