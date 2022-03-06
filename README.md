@@ -7,6 +7,8 @@ En la rama master del repositorio se encuentra el código de la actividad "AE-4.
 Para la resolución de la actividad hemos utilizado un proyecto Maven con las especificaciones que se encuentran en el archivo ![pom](/Actividad4/pom.xml).
 
 La estructura por la que hemos optado es para la resolución de la actividad la siguiente.
+
+
 ![](/Actividad4/images/estructura.png)
 
 # Requerimiento 1
